@@ -1,4 +1,6 @@
-The notebooks directory contains a Jupyter notebook for each of the experiments that we performed in our attempts to get the Transformer to learn the numerical base change. It also continues 
+The notebooks directory contains a Jupyter notebook for the baseline calculations and also plotting of the loss graphs with the computed losses from the models.
+
+We only kept the most relevant code files for our project in this repository. 
 
 For in-context-learning, we made additions or modifications to the following files:
 - samplers.py
